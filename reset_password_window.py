@@ -10,7 +10,6 @@ from kivy.core.window import Window
 from kivy.graphics import Color, Rectangle, Line
 from kivy.core.text import LabelBase
 import bcrypt
-import re
 from utils import db, cursor
 
 # Регистрируем шрифт Ubuntu
